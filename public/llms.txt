@@ -7,73 +7,73 @@
 ## Pages
 
 ### Home
-https://commentcrafted-99f63350.zappy5.app
+https://example.com
 Shop trending e commerce fashion born from viral TikTok moments. CommentCrafted turns internet culture into wearable style. Join the community and snag your next fit today.
 
 ### Mystery Boxes
-https://commentcrafted-99f63350.zappy5.app/mystery-boxes
+https://example.com/mystery-boxes
 Unbox custom e commerce fashion surprises tailored to your requests. Submit your vibe and let CommentCrafted craft a mystery box that&#39;s uniquely you. Dare to be styled.
 
 ### Custom Tees
-https://commentcrafted-99f63350.zappy5.app/custom-tees
+https://example.com/custom-tees
 Rock custom tees built from real audience reactions. CommentCrafted transforms your best comments into limited-run e commerce fashion pieces. Claim your thread-inspired look.
 
 ### Community
-https://commentcrafted-99f63350.zappy5.app/community
+https://example.com/community
 Dive into our interactive fashion e commerce companies community. Vote on designs, drop reactions, and shape the next drop at CommentCrafted. Your voice makes the fit.
 
 ### Contact
-https://commentcrafted-99f63350.zappy5.app/contact
+https://example.com/contact
 Got a fire idea or need fit help? Reach out to CommentCrafted, the e commerce fashion brand fueled by your voice. Let&#39;s make something viral together.
 
 ### Products
-https://commentcrafted-99f63350.zappy5.app/products
+https://example.com/products
 Our Products - CommentCrafted
 
 ### Cart
-https://commentcrafted-99f63350.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://commentcrafted-99f63350.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://commentcrafted-99f63350.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://commentcrafted-99f63350.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://commentcrafted-99f63350.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://commentcrafted-99f63350.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - CommentCrafted
 
 ### Category
-https://commentcrafted-99f63350.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - CommentCrafted
 
 ### Thank You | CommentCrafted
-https://commentcrafted-99f63350.zappy5.app/thank-you
+https://example.com/thank-you
 Thank you for contacting CommentCrafted, a leader in e commerce fashion. We have received your message and our team will respond shortly.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://commentcrafted-99f63350.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://commentcrafted-99f63350.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://commentcrafted-99f63350.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce Fashion
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://commentcrafted-99f63350.zappy5.app/sitemap.xml
-- Robots: https://commentcrafted-99f63350.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://commentcrafted-99f63350.zappy5.app/llms-full.txt
-- Products (JSON): https://commentcrafted-99f63350.zappy5.app/products.json
-- Products (Google Merchant RSS): https://commentcrafted-99f63350.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
